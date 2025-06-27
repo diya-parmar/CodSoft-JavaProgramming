@@ -38,6 +38,6 @@ public class SGC {
         System.out.println("Grade is : " + Grade);
         sc.close();
         System.out.println("*******************Thank you for using SGC**************");
-        System.out.println("****************Developed by: Kevin Prajapati**************");
+        System.out.println("******************Developed by: Diya Parmar****************");
     }
 }
